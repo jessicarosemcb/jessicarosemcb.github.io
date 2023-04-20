@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(175, 220, 244);
+}
+.photo {
+    float: left
+}
+h1 {
+    color:gold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cornsilk;
+    padding-left: 100px;
+    }
+p {
+    color:midnightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin-left: 100px
+}
+img {
+    border: 10px solid cornsilk;
+    margin-left: 100px;
+}    
+#info {
+    margin-left: 600px;
+    width: 300px
+}
